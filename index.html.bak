@@ -1,0 +1,10 @@
+<!doctype html>
+	<html>
+		<head>
+			<title> Planting - Online booking store </title>
+			<link href ="home.css" type="text/css" rel="stylesheet" >
+		</head>
+		<body>
+		<nav class="navbar">
+		  <div class= "nav">
+		     
